@@ -1,0 +1,56 @@
+{
+	"packages": [
+	{
+		"name": "HDuino",
+		"maintainer": "Deep Insight",
+		"websiteURL": "https://www.deep-insight.es/",
+		"email": "info@deep-insight.es",
+		"platforms": [
+		{
+			"name": "HDuino Boards",
+			"architecture": "samd",
+			"version": "0.0.2",
+			"category": "Contributed",
+			"url": "https://github.com/albertodeepinsight/hduino-arduinocore/archive/master.zip",
+			"archiveFileName": "hduino-arduinocore-master.zip",
+			"checksum": "SHA-256:a2659f7798e7bdf0f5615ce314a1c73b463edb27705d6f296ccd87d30dbb99d2",
+			"size": "1255029",
+			"boards": [
+			{"name": "Poseidon"}
+			],
+			"toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+	}
+	],
+	"tools":
+      		[
+      		]
+	}
+	]
+}
