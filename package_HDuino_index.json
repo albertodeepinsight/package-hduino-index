@@ -23,7 +23,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
+              "version": "4.8.3-2014q1"
             },
             {
               "packager": "arduino",
