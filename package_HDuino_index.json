@@ -44,6 +44,11 @@
               "packager": "arduino",
               "name": "CMSIS-Atmel",
               "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.0"
             }
           ]
 	}
