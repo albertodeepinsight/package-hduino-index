@@ -13,8 +13,8 @@
 			"category": "Contributed",
 			"url": "https://github.com/albertodeepinsight/hduino-arduinocore/archive/master.zip",
 			"archiveFileName": "hduino-arduinocore-master.zip",
-			"checksum": "SHA-256:01566754b0dc709f0554ec6e96e6b5cc55122aff037d55f618c454beaedbb068",
-			"size": "1255199",
+			"checksum": "SHA-256:8caabde8dd593fc40bc7f8cc25afb2e848bb849c1b4af65f4f6a5fae215a4884",
+			"size": "1255190",
 			"boards": [
 			{"name": "Poseidon"}
 			],
